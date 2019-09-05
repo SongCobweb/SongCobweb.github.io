@@ -12,7 +12,7 @@
 
 ## 技能树
 > * 精通Java SE，熟悉Scala，掌握代理，反射，多线程等技术，掌握UML及面向对象程序设计
-> * 熟练掌握常用的设计模式和数据结构、算法
+> * 熟练掌握常用的设计模式, 熟练掌握Springboot，Mybatis等框架技术
 > * 熟练使用Mysql和Oracle，熟悉Clickhouse列式数据库，熟练掌握SQL
 > * 熟练掌握Kafka，redis等组件的原理和使用
 > * 熟练使用IDEA，Git等开发工具，具有DevOps理念，熟悉Linux环境
